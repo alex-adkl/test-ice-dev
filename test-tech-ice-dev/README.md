@@ -1,14 +1,14 @@
-📌 Test Technique - Ice Dev
+# 📌 Test Technique - Ice Dev
 
 Ce projet est un test technique pour Ice Development développé avec Vue.js 3, Vite et Tailwind CSS.
 Il s’agit d’une interface permettant la gestion des patients d’un cabinet médical, avec un menu de navigation latéral et un menu mobile interactif.
 
 
-📂 Arborescence du projet
+## 📂 Arborescence du projet
 
-Dossier assets : Images, icônes, styles globaux
+Dossier **assets** : images, icônes, styles globaux
 
-Dossier components : Composants Vue.js
+Dossier **components** : composants Vue.js
 
 	AppHeader.vue : Barre de navigation supérieure
 	AppMenu.vue : Menu latéral / mobile
@@ -19,28 +19,31 @@ Dossier components : Composants Vue.js
 	main.js : Point d’entrée du projet
 
 
-⚡ Installation et utilisation
+## ⚡ Installation et utilisation
 
-🔧 Pré-requis
-	•	Node.js (≥ 16.x)
-	•	npm ou yarn
+### 🔧 Pré-requis
+	• Node.js (≥ 16.x)
+	• npm ou yarn
 
-📥 Installation
+### 📥 Installation
 
-1.	Cloner le dépôt :
-  	git clone https://github.com/alex-adkl/test-ice-dev.git
-  	cd test-tech-ice-dev
-  
-2.	Installer les dépendances :
-  	npm install
- 	 # ou avec yarn
- 	 yarn install
+1. Cloner le dépôt 
+```   
+git clone https://github.com/alex-adkl/test-ice-dev.git
+cd test-tech-ice-dev
+```
+2. Installer les dépendances :
+```
+npm install
+#ou avec yarn
+yarn install
+```
+### 🏃 Démarrage du projet
 
-  🏃 Démarrage du projet
-
-  Lancer le serveur de développement :
-  npm run dev
-  # ou
-  yarn dev
-
-  Le projet sera accessible à http://localhost:5173/.
+Lancer le serveur de développement :
+```
+npm run dev
+# ou
+yarn dev
+```
+Le projet sera accessible à http://localhost:5173/.
