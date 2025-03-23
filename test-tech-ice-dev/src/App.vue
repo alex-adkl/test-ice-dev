@@ -125,6 +125,7 @@ const patients = [
 .card-container {
   padding-left: 6rem;
   padding-right: 6rem;
+  padding-bottom: 8rem;
 }
 @media (min-width: 768px) {
   .content {
